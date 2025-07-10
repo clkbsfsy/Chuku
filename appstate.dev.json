@@ -1,1 +1,92 @@
-
+[
+	{
+		"key": "datr",
+		"value": "zoxraAZLaYkVHrgjdO1CC1mK",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-10T15:23:04.209Z",
+		"lastAccessed": "2025-07-10T15:23:04.215Z"
+	},
+	{
+		"key": "sb",
+		"value": "zoxraEWP7C_P22d2iBw6fWTB",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-10T15:23:04.215Z",
+		"lastAccessed": "2025-07-10T15:23:04.215Z"
+	},
+	{
+		"key": "c_user",
+		"value": "61577911177576",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-10T15:23:04.215Z",
+		"lastAccessed": "2025-07-10T15:23:04.215Z"
+	},
+	{
+		"key": "xs",
+		"value": "6%3AcIjN0QxdM9rwaA%3A2%3A1751878986%3A-1%3A-1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-10T15:23:04.215Z",
+		"lastAccessed": "2025-07-10T15:23:04.215Z"
+	},
+	{
+		"key": "fr",
+		"value": "0A5xGHljVbaAKWqaU.AWfB5hGnD-i8AlkG3_LTFdxp6GxVBIBp89tcFsPkA5QFizwXuDI.Boa4zO..AAA.0.0.Boa41N.AWemrbYs7gvOElppMAsaEl0lMyQ",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-10T15:23:04.215Z",
+		"lastAccessed": "2025-07-10T15:23:04.215Z"
+	},
+	{
+		"key": "locale",
+		"value": "en_GB",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-10T15:23:04.215Z",
+		"lastAccessed": "2025-07-10T15:23:04.215Z"
+	},
+	{
+		"key": "pas",
+		"value": "61577911177576%3AXjNhrg6Wos",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-10T15:23:04.215Z",
+		"lastAccessed": "2025-07-10T15:23:04.215Z"
+	},
+	{
+		"key": "wl_cbv",
+		"value": "v2%3Bclient_version%3A2862%3Btimestamp%3A1751878989",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-10T15:23:04.216Z",
+		"lastAccessed": "2025-07-10T15:23:04.216Z"
+	},
+	{
+		"key": "fbl_st",
+		"value": "101437014%3BT%3A29197983",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-10T15:23:04.216Z",
+		"lastAccessed": "2025-07-10T15:23:04.216Z"
+	},
+	{
+		"key": "vpd",
+		"value": "v1%3B780x393x2.75",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-10T15:23:04.216Z",
+		"lastAccessed": "2025-07-10T15:23:04.216Z"
+	}
+]
